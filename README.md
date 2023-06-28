@@ -30,13 +30,39 @@
 解压密码x20200427
 
 ### 在线资源
-[菜鸟教程](https://www.runoob.com/)，包罗万象，程序语言的语法基本都能在上面找到
+[菜鸟教程](https://www.runoob.com/)，包罗万象，各类程序语言的语法基本都能在上面找到
 [Github](https://github.com/)，主要内容为用户上传的开源项目，后续深入可以尝试拉取感兴趣的开源项目并观察源代码进行学习
 
 除此之外各种编程语言的官方文档包含了更详细的说明例如[Java](https://dev.java/learn/getting-started/)、[微软](https://learn.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/#code-try-0)等
 
 
+# 学习方向
+## 应用开发为主
 
+编程语言，两种熟悉并掌握一种即可
+- C：后续可深入学习C++，并学习在Unreal中实现C++开发(相比之下Unreal的蓝图开发易上手，但从程序开发的角度来看，建议意志坚定的选择Unreal和C++开发)
+- Java
+    - 生态环境良好，选择范围广；包括Web后端开发、客户端\移动端应用开发等多种方向，有兴趣的可自行搜索
+    - 兴趣不大的可在熟悉语言逻辑结构后转向C#学习，并学习在Unity中实现C#开发(C#和Java的逻辑结构相似度较高，基础语法除去部分关键字和表达方式不一样外无明显差异)
+
+
+创建网页的标记语言HTML和网页编程语言JavaScript
+- 对Web开发有兴趣的，可搭配CSS深入学习
+- 兴趣不大的了解HTML内各UI元素的层次结构和关系即可。JavaScript在程序语言的逻辑上和Java以及C#相似，重合度较高的语言学会熟练使用一种即可
+
+Unreal中实现C++、Unity中实现C#、HTML和JavaScript的结构都可归属为软件工程中的[MVC设计架构](https://www.runoob.com/design-pattern/mvc-pattern.html)，相比直接学习Unreal和Unity引擎的使用，先了解HTML的结构有利于降低学习难度，减少学习成本。在有一定程序语言的基础和程序结构认知的情况下，只需要专注于学习引擎工具，需要什么，查阅官方文档的相关说明即可
+
+### 横向延伸
+数据库
+- 待补充
+
+服务器
+- 待补充
+
+集成开发环境
+- 待补充
+
+## 其他方向
 
 
 
