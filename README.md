@@ -40,17 +40,18 @@
 ## 应用开发为主
 
 编程语言，两种熟悉并掌握一种即可
-- C：后续可深入学习C++，并学习在Unreal中实现C++开发(相比之下Unreal的蓝图开发易上手，但从程序开发的角度来看，建议意志坚定的选择Unreal和C++开发)
+- C：后续可转向C++，并学习在Unreal中实现C++开发(相比之下Unreal的蓝图开发易上手，但从程序开发的角度来看，建议意志坚定的选择Unreal和C++的开发类型)
 - Java
     - 生态环境良好，选择范围广；包括Web后端开发、客户端\移动端应用开发等多种方向，有兴趣的可自行搜索
     - 兴趣不大的可在熟悉语言逻辑结构后转向C#学习，并学习在Unity中实现C#开发(C#和Java的逻辑结构相似度较高，基础语法除去部分关键字和表达方式不一样外无明显差异)
 
 
-创建网页的标记语言HTML和网页编程语言JavaScript
-- 对Web开发有兴趣的，可搭配CSS深入学习
-- 兴趣不大的了解HTML内各UI元素的层次结构和关系即可。JavaScript在程序语言的逻辑上和Java以及C#相似，重合度较高的语言学会熟练使用一种即可
+创建网页的标记语言HTML和网页编程语言[JavaScript](https://www.runoob.com/js/js-tutorial.html)
+- 对Web前端开发有兴趣的，可搭配CSS深入学习
+- 兴趣不大的了解HTML的层次结构和各UI元素功能即可，为后续学习Unity或Unreal开发节省学习UI界面的时间。JavaScript在程序语言的逻辑上和其他编程语言相似，在重合度较高的语言中学会熟练使用一种即可
 
-Unreal中实现C++、Unity中实现C#、HTML和JavaScript的结构都可归属为软件工程中的[MVC设计架构](https://www.runoob.com/design-pattern/mvc-pattern.html)，相比直接学习Unreal和Unity引擎的使用，先了解HTML的结构有利于降低学习难度，减少学习成本。在有一定程序语言的基础和程序结构认知的情况下，只需要专注于学习引擎工具，需要什么，查阅官方文档的相关说明即可
+
+Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的结构都可归属为软件工程中的[MVC设计架构](https://www.runoob.com/design-pattern/mvc-pattern.html)，相比直接学习Unreal和Unity引擎的使用，先从结构简洁的HTML和UI功能入手有利于降低学习难度，减少学习成本。在有程序语言基础和程序结构认知的情况下，后续只需要专注于学习引擎工具，需要什么，查阅官方文档的相关说明即可
 
 ### 横向延伸
 数据库
@@ -63,6 +64,7 @@ Unreal中实现C++、Unity中实现C#、HTML和JavaScript的结构都可归属�
 - 待补充
 
 ## 其他方向
+
 
 
 
