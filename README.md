@@ -64,14 +64,21 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的结构�
 - 待补充
 
 ## 其他方向
+对开发兴趣不大的可先学习该书籍
+- [AUTOMATE THE BORING STUFF WITH PYTHON](https://automatetheboringstuff.com/2e/chapter0/)，从长远方向来看建议学会阅读英文原版；若实在吃力可阅读[中文译版](https://automatetheboringstuff.com/2e/chapter0/)
 
-平面图形
+- 建议
+	- 熟练掌握Chapter 1-Chapter 11的内容，Chapter 12-Chapter 20根据情况自行需要选择学习
+	- 在编程实践时，能够根据当前场景并结合任务一的学习内容，设计相对适合的数据结构和处理方式
+
+图形图像
 - 待补充
+- 可结合HTML进行网页页面设计
 
 
 三维模型
 - 待补充
-
+- 可结合Unity或Unreal开发引擎进行三维模型展示或交互
 
 
 
