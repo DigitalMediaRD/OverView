@@ -3,11 +3,15 @@
 # 工具和资源
 ## 学习使用Git
 [快速入门](https://docs.github.com/zh/get-started/quickstart)，目前了解账户的创建、[仓库的创建和拉取](https://docs.github.com/zh/get-started/quickstart/hello-world)、[Git的使用](https://docs.github.com/zh/get-started/quickstart/set-up-git)和页面的功能即可
+
+
+创建账户成功后进入该链接并提交信息，[金山表单邀你填写GitHub账号提交](https://f.kdocs.cn/g/YgaZsQc0/)
+
 ### MarkDown
 轻量级标记语言，[MarkDown编写文档](http://itmyhome.com/markdown/index.html)在GitHub中应用广泛。例如本文件```OverView.MD```就是通过MarkDown语言编写
 
 ### Code
-将本地文件夹的项目仓库同步至GitHub的远程仓库后的界面化显示，可在网页上实现对代码文件的直接阅读
+将本地文件夹的项目仓库同步至GitHub的远程仓库后的界面化显示，可在网页上实现对代码文件的直接阅读。保证掌握基本的拉取、推送操作
 ### Issues 
 在学习过程中遇到疑问可通过[issues](https://github.com/DigitalMediaRD/OverView/issues)板块创建记录遇到的问题，也可在该板块内通过关键字检索相关联的记录
 
@@ -20,7 +24,7 @@
 
 创建页面还包括其他工具和组件，例如输入板块内可更改字体格式、插入超链接、增加分段说明和@等基本功能，以及任务分配、issue类别定义标签等在多人开发模式下的协作功能
 
-
+网络原因导致访问GitHub失败的可通过[本链接提交](https://f.kdocs.cn/g/4qDOBOcp)相关issue
 
 
 ## 学习资源
@@ -31,12 +35,15 @@
 
 ### 在线资源
 [菜鸟教程](https://www.runoob.com/)，包罗万象，各类程序语言的语法基本都能在上面找到
+
 [Github](https://github.com/)，主要内容为用户上传的开源项目，后续深入可以尝试拉取感兴趣的开源项目并观察源代码进行学习
 
 除此之外各种编程语言的官方文档包含了更详细的说明例如[Java](https://dev.java/learn/getting-started/)、[微软](https://learn.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/#code-try-0)等
 
 
 # 学习方向
+
+
 ## 其他方向
 对开发兴趣不大的可先学习该书籍
 - [AUTOMATE THE BORING STUFF WITH PYTHON](https://automatetheboringstuff.com/2e/chapter0/)，从长远方向来看建议学会阅读英文原版；若实在吃力可阅读[中文译版]()
@@ -44,21 +51,25 @@
 - 建议
 	- 熟练掌握Chapter 1-Chapter 11的内容，Chapter 12-Chapter 20根据情况自行需要选择学习
 	- 在编程实践时，能够根据当前场景并结合任务一的学习内容，设计相对适合的数据结构和处理方式
+	- 创建一个GitHub仓库，完成文档内提及的练习并将源代码文件推送到GitHub远程仓库上
+
+配置Python编译环境的方法较多，[尚不熟练的可直接下载Anaconda安装包](https://github.com/DigitalMediaRD/OverView#conda)，安装后在开始菜单找到Anaconda的文件夹，并点击文件夹内的Spyder图标启动编译器
 
 ### 图形图像
 待补充
 - 可结合HTML进行网页页面设计
 
 
-### 三维模型
+### 三维可视化
 待补充
 - 可结合Unity或Unreal开发引擎进行三维模型展示或交互
+- Python可与Blender软件组合使用，有兴趣的同学可自行查阅官方文档
 
 
 ## 应用开发为主
 
-编程语言，两种熟悉并掌握一种即可
-- C：后续可转向C++，并学习在Unreal中实现C++开发(相比之下Unreal的蓝图开发易上手，但从程序开发的角度来看，建议意志坚定的选择Unreal和C++的开发类型)
+编程语言，使用范围较广的两种，熟悉并掌握一种即可
+- [C](https://kdocs.cn/l/cokXwXzawDmq)：后续可转向C++，并学习在Unreal中实现C++开发(相比之下Unreal的蓝图开发易上手，但从程序开发的角度来看，建议意志坚定的选择Unreal和C++的开发类型)
 - Java
     - 生态环境良好，选择范围广；包括Web后端开发、客户端\移动端应用开发等多种方向，有兴趣的可自行搜索
     - 兴趣不大的可在熟悉语言逻辑结构后转向C#学习，并学习在Unity中实现C#开发(C#和Java的逻辑结构相似度较高，基础语法除去部分关键字和表达方式不一样外无明显差异)
@@ -69,7 +80,7 @@
 - 兴趣不大的了解HTML的层次结构和各UI元素功能即可，为后续学习Unity或Unreal开发节省学习UI界面的时间。JavaScript在程序语言的逻辑上和其他编程语言相似，在重合度较高的语言中学会熟练使用一种即可
 
 
-Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的结构都可归属为软件工程中的[MVC设计架构](https://www.runoob.com/design-pattern/mvc-pattern.html)，相比直接学习Unreal和Unity引擎的使用，先从结构简洁的HTML和UI功能入手有利于降低学习难度，减少学习成本。在有程序语言基础和程序结构认知的情况下，后续只需要专注于学习引擎工具，需要什么，查阅官方文档的相关说明即可
+Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序在结构上都可归属为软件工程中常用的[MVC设计架构](https://www.runoob.com/design-pattern/mvc-pattern.html)，相比直接学习Unreal和Unity引擎的使用，先从结构简洁的HTML和UI功能入手有利于降低学习难度，减少学习成本。在有程序语言基础和程序结构认知的情况下，后续只需要专注于学习引擎工具，需要什么，查阅官方文档的相关说明。当能实现功能开发后，可逐步开始了解软件工程内的其他设计模式
 
 ### 横向延伸
 数据库
