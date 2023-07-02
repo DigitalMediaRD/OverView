@@ -57,6 +57,9 @@
 
 配置Python编译环境的方法较多，[尚不熟练的可直接下载Anaconda安装包](https://github.com/DigitalMediaRD/OverView#conda)，安装后在开始菜单找到Anaconda的文件夹，并点击文件夹内的Spyder图标启动编译器
 
+
+[OtherField](https://github.com/DigitalMediaRD/OtherField)
+
 ### 图形图像
 待补充
 - 可结合HTML进行网页页面设计
@@ -87,6 +90,8 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 
 
 软件工程参与其他行业的应用程序设计偏多，目标行业提供业务标准和流程，软件工程实现现实流程和标准的数字化并设计符合要求的应用程序。也有自主研发软件领域如各类大型商业、工业，民用以及游戏软件等
+[ApplicationDevelopment](https://github.com/DigitalMediaRD/ApplicationDevelopment)
+
 ### 横向延伸
 数据库
 - 待补充
