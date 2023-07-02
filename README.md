@@ -47,10 +47,11 @@
 
 ## 其他方向
 对开发兴趣不大的可先学习该书籍
-- [AUTOMATE THE BORING STUFF WITH PYTHON](https://automatetheboringstuff.com/2e/chapter0/)，从长远方向来看建议学会阅读英文原版；若实在吃力可阅读[中文译版]()
+- [AUTOMATE THE BORING STUFF WITH PYTHON](https://automatetheboringstuff.com/2e/chapter0/)，学习没有捷径，建议尝试阅读英文原版；若实在吃力可阅读[中文译版](https://kdocs.cn/l/cvONqPjqwC5d)
 
 - 建议
-	- 熟练掌握Chapter 1-Chapter 11的内容，Chapter 12-Chapter 20根据情况自行需要选择学习
+	- 熟练掌握英文版Chapter 1-Chapter 11的内容，Chapter 12-Chapter 20根据情况自行需要选择学习
+		- 中文版熟练掌握至第10章，第11至第18章根据情况自行需要选择学习
 	- 在编程实践时，能够根据当前场景并结合任务一的学习内容，设计相对适合的数据结构和处理方式
 	- 创建一个GitHub仓库，完成文档内提及的练习并将源代码文件推送到GitHub远程仓库上
 
@@ -65,6 +66,7 @@
 待补充
 - 可结合Unity或Unreal开发引擎进行三维模型展示或交互
 - Python可与Blender软件组合使用，有兴趣的同学可自行查阅官方文档
+- 通过深度学习可将多张二维图片转化为三维模型，有兴趣的同学可了解
 
 
 ## 应用开发为主
@@ -83,6 +85,8 @@
 
 Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序在结构上都可归属为软件工程中常用的[MVC设计架构](https://www.runoob.com/design-pattern/mvc-pattern.html)，相比直接学习Unreal和Unity引擎的使用，先从结构简洁的HTML和UI功能入手有利于降低学习难度，减少学习成本。在有程序语言基础和程序结构认知的情况下，后续只需要专注于学习引擎工具，需要什么，查阅官方文档的相关说明。当能实现功能开发后，可逐步开始了解软件工程内的其他设计模式
 
+
+软件工程参与其他行业的应用程序设计偏多，目标行业提供业务标准和流程，软件工程实现现实流程和标准的数字化并设计符合要求的应用程序。也有自主研发软件领域如各类大型商业、工业，民用以及游戏软件等
 ### 横向延伸
 数据库
 - 待补充
@@ -121,7 +125,7 @@ Conda移植虚拟环境到其他设备的[操作方法](https://blog.csdn.net/bu
 
 #### Pycharm
 
-常用的Python语言IDE
+标准化的Python语言IDE
 
 - [说明文档](https://pycharm.iswbm.com/)
 
@@ -129,7 +133,7 @@ Conda移植虚拟环境到其他设备的[操作方法](https://blog.csdn.net/bu
 
 #### Visual Studio
 
-微软出品，支持C、C++和C#开发
+微软出品的标准化IDE，支持C、C++和C#语言
 
 - 包含git代码管理功能
 
