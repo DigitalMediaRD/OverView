@@ -1,7 +1,16 @@
 # OverView
 
 # 工具和资源
+## 网络代理
+下载解压包并安装[exe程序](https://kdocs.cn/l/cmLgcAuNw7hI)
+
+[购买付费流量](https://mojie.mx/#/dashboard)，点击图标为+的购买订阅按钮。初次使用可购买小额流量，后续根据使用情况灵活选择
+
+[使用文档](https://mojie.mx/#/knowledge)，初始界面General的System Proxy若被选中，则连接期间所有的网络访问都会使用代理模式。建议在访问GitHub时打开，正常浏览国内视频网站时关闭
 ## 学习使用Git
+
+若网络代理配置成功，则访问GitHub无明显障碍
+
 [快速入门](https://docs.github.com/zh/get-started/quickstart)，目前了解账户的创建、[仓库的创建和拉取](https://docs.github.com/zh/get-started/quickstart/hello-world)、[Git的使用](https://docs.github.com/zh/get-started/quickstart/set-up-git)和页面的功能即可
 
 
@@ -24,7 +33,7 @@
 
 创建页面还包括其他工具和组件，例如输入板块内可更改字体格式、插入超链接、增加分段说明和@等基本功能，以及任务分配、issue类别定义标签等在多人开发模式下的协作功能
 
-网络原因导致访问GitHub失败的可通过[本链接提交](https://f.kdocs.cn/g/4qDOBOcp)相关issue
+网络原因导致访问GitHub失败的可临时通过[本链接提交](https://f.kdocs.cn/g/4qDOBOcp)学习上的issue
 
 
 ## 学习资源
