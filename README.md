@@ -121,21 +121,6 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 
 - 包含git代码管理功能
 
-Conda移植虚拟环境到其他设备的[操作方法](https://blog.csdn.net/buweifeng/article/details/124733123?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-124733123-blog-115385868.t0_layer_searchtargeting_sa&spm=1001.2101.3001.4242.2&utm_relevant_index=3)
-
-	#安装打包资源库
-	conda install -c conda-forge conda-pack
-	#当前虚拟环境导出包
-	conda pack -n env_name
-	#登陆需要安装环境的机器
-	cd yourpath
-	# 解压
-	tar zxf target_file.tar.gz
-	# 激活环境
-	conda activate /yourpath/bin/activate 
-	# 查看python的路径
-	which python
-
 
 #### Pycharm
 
