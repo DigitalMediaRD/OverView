@@ -101,14 +101,7 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 软件工程参与其他行业的应用程序设计偏多，目标行业提供业务标准和流程，软件工程实现现实流程和标准的数字化并设计符合要求的应用程序。也有自主研发软件领域如各类大型商业、工业，民用以及游戏软件等
 [ApplicationDevelopment](https://github.com/DigitalMediaRD/ApplicationDevelopment)
 
-### 横向延伸
-数据库
-- 待补充
-
-服务器
-- 待补充
-
-
+### 开发环境
 了解以下集成开发环境，并根据实际情况熟练掌握一类
 
 #### Conda
