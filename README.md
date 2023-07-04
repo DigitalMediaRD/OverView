@@ -83,7 +83,7 @@
 
 ## 应用开发为主
 
-[ApplicationDevelopment库](https://github.com/DigitalMediaRD/ApplicationDevelopment)
+[ApplicationDevelopment](https://github.com/DigitalMediaRD/ApplicationDevelopment)
 
 编程语言，应用范围较广的两种，熟悉并掌握一种即可
 - [C](https://kdocs.cn/l/cokXwXzawDmq)：后续可转向C++，并学习在Unreal中实现C++开发(相比之下Unreal的蓝图开发易上手，但从程序开发的角度来看，建议意志坚定的选择Unreal和C++的开发类型)
