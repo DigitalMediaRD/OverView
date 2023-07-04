@@ -83,6 +83,8 @@
 
 ## 应用开发为主
 
+[ApplicationDevelopment库](https://github.com/DigitalMediaRD/ApplicationDevelopment)
+
 编程语言，应用范围较广的两种，熟悉并掌握一种即可
 - [C](https://kdocs.cn/l/cokXwXzawDmq)：后续可转向C++，并学习在Unreal中实现C++开发(相比之下Unreal的蓝图开发易上手，但从程序开发的角度来看，建议意志坚定的选择Unreal和C++的开发类型)
 - Java
@@ -99,7 +101,7 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 
 
 软件工程参与其他行业的应用程序设计偏多，目标行业提供业务标准和流程，软件工程实现现实流程和标准的数字化并设计符合要求的应用程序。也有自主研发软件领域如各类大型商业、工业，民用以及游戏软件等
-[ApplicationDevelopment](https://github.com/DigitalMediaRD/ApplicationDevelopment)
+
 
 ### 开发环境
 了解以下集成开发环境，并根据实际情况熟练掌握一类
