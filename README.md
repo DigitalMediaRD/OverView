@@ -52,7 +52,7 @@
 
 # 学习方向
 ## 图形学
-[OpenCV库](https://github.com/DigitalMediaRD/OpenCV)
+OpenCV[代码示例仓库](https://github.com/DigitalMediaRD/OpenCV)
 
 ## 其他方向
 对开发兴趣不大的可先学习该书籍
