@@ -71,7 +71,7 @@ OpenCV[代码示例仓库](https://github.com/DigitalMediaRD/OpenCV)
 
 ### 图形图像
 待补充
-- 可学习网页页面设计
+- 前端页面设计
 
 
 ### 三维可视化
@@ -127,7 +127,7 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 
 #### Visual Studio
 
-微软出品的标准化IDE，支持C、C++和C#语言
+微软出品的标准化IDE，支持C、C++和C#
 
 - 包含git代码管理功能
 
