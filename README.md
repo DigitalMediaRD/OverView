@@ -69,9 +69,10 @@ OpenCV[代码示例仓库](https://github.com/DigitalMediaRD/OpenCV)
 
 [OtherField](https://github.com/DigitalMediaRD/OtherField)
 
-### 图形图像
+### 视频图像
 待补充
 - 前端页面设计
+- 视频处理
 
 
 ### 三维可视化
