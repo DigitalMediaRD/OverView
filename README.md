@@ -1,6 +1,6 @@
 # OverView
 [Thesis](https://github.com/DigitalMediaRD/OverView/blob/main/Thesis.md)
-# 工具和资源
+# 工具
 ## 网络代理
 下载解压包并安装[exe程序](https://kdocs.cn/l/cmLgcAuNw7hI)
 
@@ -36,26 +36,21 @@
 网络原因导致访问GitHub失败的可临时通过[本链接提交](https://f.kdocs.cn/g/4qDOBOcp)学习上的issue
 
 
-## 学习资源
-### 编程基础&扩展理论类相关学习书籍
-[书籍库](https://github.com/XiangLinPro/IT_book)，涵盖打基础和进阶，根据实际需要自由学习
-
-解压密码x20200427
-
-### 在线资源
-[菜鸟教程](https://www.runoob.com/)，包罗万象，各类程序语言的语法基本都能在上面找到
-
-[Github](https://github.com/)，主要内容为用户上传的开源项目，后续深入可以尝试拉取感兴趣的开源项目并观察源代码进行学习
-
-除此之外各种编程语言的官方文档包含了更详细的说明例如[Java](https://dev.java/learn/getting-started/)、[微软](https://learn.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/#code-try-0)等
 
 
 # 学习方向
+## 传统型稳扎稳打
+[C语言文档](https://kdocs.cn/l/cokXwXzawDmq)，涵盖了编程语言的思想以及在计算机中的运行过程。可作为基础的入门参考，在时间充裕的情况下也可深入学习，减少后期学习其他编程语言和408主要理论的学习成本
+
+[面向对象分析与设计](https://kdocs.cn/l/ci6P7NktuM7O)，编程的目的在于解决具体的问题。因此对问题的思考和分析则是较为关键的一环，本书结合了哲学、自然科学以及应用工程的概念，将理论尽可能具象化。无论是短期概念理解还是长期的提升学习都有一定的帮助
 ## 图形学
 OpenCV[代码示例仓库](https://github.com/DigitalMediaRD/OpenCV)
 
+## Java方向
+[Java相关资源](https://github.com/sorenduan/awesome-java-books)，待整理
+
 ## 其他方向
-对开发兴趣不大的可先学习该书籍
+对主流应用程序开发兴趣不大的可先学习该书籍
 - [AUTOMATE THE BORING STUFF WITH PYTHON](https://automatetheboringstuff.com/2e/chapter0/)，学习没有捷径，建议尝试阅读英文原版；若实在吃力可阅读[中文译版](https://kdocs.cn/l/cvONqPjqwC5d)
 
 - 建议
@@ -104,10 +99,10 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 软件工程参与其他行业的应用程序设计偏多，目标行业提供业务标准和流程，软件工程实现现实流程和标准的数字化并设计符合要求的应用程序。也有自主研发软件领域如各类大型商业、工业，民用以及游戏软件等
 
 
-### 开发环境
+# 开发工具
 了解以下集成开发环境，并根据实际情况熟练掌握一类
 
-#### Conda
+## Conda
 
 其特点在于可创建多个不同版本的python环境实现互相独立的多环境管理；缺点在于多个虚拟环境的创建将占用大量硬盘空间，并且当涉及其他需要额外进行编译操作的程序时，操作处理起来略微繁琐
 
@@ -118,7 +113,7 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 - 包含git代码管理功能
 
 
-#### Pycharm
+## Pycharm
 
 标准化的Python语言IDE
 
@@ -126,13 +121,24 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 
 - 包含git代码管理功能
 
-#### Visual Studio
+## Visual Studio
 
 微软出品的标准化IDE，支持C、C++和C#
 
 - 包含git代码管理功能
 
 
+# 学习资源
+## 编程基础&扩展理论类相关学习书籍
+[书籍库](https://github.com/ley520/ebooks/tree/master)，涵盖打基础和进阶，根据实际需要自由学习
+
+
+## 在线资源
+[菜鸟教程](https://www.runoob.com/)，各类程序语言的语法基本都能在上面找到
+
+[Github](https://github.com/)，主要内容为用户上传的开源项目，后续深入可以尝试拉取感兴趣的开源项目并观察源代码进行学习
+
+除此之外各种编程语言的官方文档包含了更详细的说明例如[Java](https://dev.java/learn/getting-started/)、[微软](https://learn.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/#code-try-0)等
 
 
 
