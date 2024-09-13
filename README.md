@@ -1,7 +1,10 @@
 # OverView
-[毕业论文](https://github.com/DigitalMediaRD/OverView/blob/main/Thesis.md)
+持续更新  
+毕业生首要掌握内容
+- [毕业论文](https://github.com/DigitalMediaRD/OverView/blob/main/Thesis.md)
+- [必用工具1](# 工具)
+- [必用工具2](# 开发工具)
 
-持续更新
 # 工具
 ## 网络代理
 下载解压包并安装[exe程序](https://kdocs.cn/l/cmLgcAuNw7hI)
