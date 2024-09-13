@@ -1,5 +1,7 @@
 # OverView
 [毕业论文](https://github.com/DigitalMediaRD/OverView/blob/main/Thesis.md)
+
+持续更新
 # 工具
 ## 网络代理
 下载解压包并安装[exe程序](https://kdocs.cn/l/cmLgcAuNw7hI)
@@ -96,9 +98,7 @@ OpenCV[代码示例仓库](https://github.com/DigitalMediaRD/OpenCV)，也是图
 - 兴趣不大的了解HTML的结构和各UI元素功能即可，为后续学习Unity或Unreal开发节省学习UI界面的时间。JavaScript在程序语言的逻辑上和其他编程语言相似，在重合度较高的语言中学会熟练使用一种即可
 
 
-Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序在结构上都可归属为软件工程中常用的[MVC设计架构](https://www.runoob.com/design-pattern/mvc-pattern.html)，相比直接学习Unreal和Unity引擎的使用，先从HTML和UI功能入手有利于降低学习难度，减少学习成本。在有程序语言基础和程序结构认知的情况下，后续只需要专注于学习引擎工具，需要什么直接查阅官方文档的说明。当能实现功能开发后，可逐步开始了解软件工程内的其他设计模式
-
-
+Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序在结构上都可归属为软件工程中常用的[MVC设计架构](https://www.runoob.com/design-pattern/mvc-pattern.html)，相比直接学习Unreal和Unity引擎的使用，先从HTML和UI功能入手有利于降低学习难度，减少学习成本。在有程序语言基础和程序结构认知的情况下，后续只需要专注于学习引擎工具，需要什么直接查阅官方文档的说明。当能实现功能开发后，可逐步开始了解软件工程内的其他设计模式  
 软件工程参与其他行业的应用程序设计偏多，目标行业提供业务标准和流程，软件工程实现现实流程和标准的数字化并设计符合要求的应用程序。也有自主研发软件领域如各类大型商业、工业，民用以及游戏软件等
 
 
