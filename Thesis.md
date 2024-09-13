@@ -26,6 +26,7 @@
 ### 往届参考文献收集
 云文档内的的参考文献会不定时更新
 - [网络爬虫及数据分析](https://kdocs.cn/join/gzyrddz?f=101)
+  - ```Anaconda```与```Pycharm```[组合使用](https://github.com/DigitalMediaRD/OpenCV?tab=readme-ov-file#%E7%BB%84%E5%90%88%E4%BD%BF%E7%94%A8)
 - [Unity3D应用开发](https://kdocs.cn/join/g6p53hz?f=101)
 - [Web应用开发](https://kdocs.cn/join/g5rk3ma?f=101)
 

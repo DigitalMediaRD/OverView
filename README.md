@@ -123,6 +123,7 @@ Unreal中使用C++开发、Unity中使用C#开发、HTML和JavaScript的程序�
 - [说明文档](https://pycharm.iswbm.com/)
 
 - 包含git代码管理功能
+- [组合使用](https://github.com/DigitalMediaRD/OpenCV?tab=readme-ov-file#%E7%BB%84%E5%90%88%E4%BD%BF%E7%94%A8)
 
 ## Visual Studio
 
