@@ -2,8 +2,8 @@
 持续更新  
 毕业生首要掌握内容
 - [毕业论文](https://github.com/DigitalMediaRD/OverView/blob/main/Thesis.md)
-- [必用工具1](# 工具)
-- [必用工具2](# 开发工具)
+- [必用工具1](https://github.com/DigitalMediaRD/OverView/tree/main?tab=readme-ov-file#%E5%B7%A5%E5%85%B7)
+- [必用工具2](https://github.com/DigitalMediaRD/OverView/tree/main?tab=readme-ov-file#%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7)
 
 # 工具
 ## 网络代理

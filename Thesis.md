@@ -1,5 +1,4 @@
 # 学位论文要求
-[OverView](https://github.com/DigitalMediaRD/OverView)
 
 持续更新
 
