@@ -39,17 +39,30 @@
 
 
 # 学习方向
-## 传统型稳扎稳打
+## 基础型稳扎稳打
 [C语言文档](https://kdocs.cn/l/cokXwXzawDmq)，涵盖了编程语言的思想以及在计算机中的运行过程。可作为基础的入门参考，在时间充裕的情况下也可深入学习，减少后期学习其他编程语言和408主要理论的学习成本
 
-[面向对象分析与设计](https://kdocs.cn/l/ci6P7NktuM7O)，编程的目的在于解决具体的问题。因此对问题的思考和分析则是较为关键的一环，本书结合了哲学、自然科学以及应用工程的概念，将理论尽可能具象化。无论是短期概念理解还是长期的提升学习都有一定的帮助
-## 图形学
-OpenCV[代码示例仓库](https://github.com/DigitalMediaRD/OpenCV)
+[面向对象分析与设计](https://kdocs.cn/l/ci6P7NktuM7O)，编程的目的在于解决具体的问题。因此对问题的思考和分析则是较为关键的一环，本书结合了哲学、自然科学以及应用工程的概念，将理论尽可能具象化。无论最后是否在计算机的相关行业发展、无论是短期概念理解还是长期的提升学习都有一定的帮助，根据实际情况选择性阅读章节内容
+## 数字媒体技术
 
-## Java方向
+OpenCV[代码示例仓库](https://github.com/DigitalMediaRD/OpenCV)，也是图形学中较为广泛的应用方式
+
+### 视频图像
+待补充
+- 图像处理
+- 视频处理
+
+
+### 三维可视化
+待补充
+- 在Unity或Unreal开发引擎中进行三维模型展示或交互
+- Python可与Blender软件组合使用，有兴趣的可自行查阅官方文档
+- 计算机图形学和深度学习可将多张二维图片转化为三维模型
+
+## Java应用
 [Java相关资源](https://github.com/sorenduan/awesome-java-books)，待整理
 
-## 其他方向
+## 其他
 对主流应用程序开发兴趣不大的可先学习该书籍
 - [AUTOMATE THE BORING STUFF WITH PYTHON](https://automatetheboringstuff.com/2e/chapter0/)，学习没有捷径，建议尝试阅读英文原版；若实在吃力可阅读[中文译版](https://kdocs.cn/l/cvONqPjqwC5d)
 
@@ -64,17 +77,7 @@ OpenCV[代码示例仓库](https://github.com/DigitalMediaRD/OpenCV)
 
 [OtherField](https://github.com/DigitalMediaRD/OtherField)
 
-### 视频图像
-待补充
-- 前端页面设计
-- 视频处理
 
-
-### 三维可视化
-待补充
-- 在Unity或Unreal开发引擎中进行三维模型展示或交互
-- Python可与Blender软件组合使用，有兴趣的可自行查阅官方文档
-- 计算机图形学和深度学习可将多张二维图片转化为三维模型，有兴趣的可自行了解
 
 
 ## 应用开发为主
