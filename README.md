@@ -1,5 +1,5 @@
 # OverView
-[Thesis](https://github.com/DigitalMediaRD/OverView/blob/main/Thesis.md)
+[毕业论文](https://github.com/DigitalMediaRD/OverView/blob/main/Thesis.md)
 # 工具
 ## 网络代理
 下载解压包并安装[exe程序](https://kdocs.cn/l/cmLgcAuNw7hI)
