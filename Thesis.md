@@ -22,6 +22,9 @@
 通过详细页的引用图标可唤出引用窗口，格式通常是第一个。将其复制并置于论文的参考文献页面
 ![](https://github.com/DigitalMediaRD/OverView/blob/main/res/Thesis/003.png)
 
+### 文献引用方式
+下载[知网研学客户端](https://piccachex.cnki.net/estudy/E-Study%20Setup.exe)，按照[视频](https://www.bilibili.com/video/BV1Hr4y1T7hs)演示进行参考文献的引用
+
 ### 往届参考文献收集
 云文档内的的参考文献会不定时更新
 - [网络爬虫及数据分析](https://kdocs.cn/join/gzyrddz?f=101)
